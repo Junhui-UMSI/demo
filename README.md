@@ -15,3 +15,6 @@ please copy
 
 # Git Workflow
 1. Try branch using Terminal.app
+
+# Git Fork workflow
+1. Trying forking
